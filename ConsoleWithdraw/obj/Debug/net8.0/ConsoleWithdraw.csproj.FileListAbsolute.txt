@@ -1,0 +1,14 @@
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\bin\Debug\net8.0\ConsoleWithdraw.exe
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\bin\Debug\net8.0\ConsoleWithdraw.deps.json
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\bin\Debug\net8.0\ConsoleWithdraw.runtimeconfig.json
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\bin\Debug\net8.0\ConsoleWithdraw.dll
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\bin\Debug\net8.0\ConsoleWithdraw.pdb
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.AssemblyInfoInputs.cache
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.AssemblyInfo.cs
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.dll
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\refint\ConsoleWithdraw.dll
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.pdb
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ConsoleWithdraw.genruntimeconfig.cache
+C:\Users\ramon\source\repos\RamonAPereira\ConsoleWithdraw\ConsoleWithdraw\obj\Debug\net8.0\ref\ConsoleWithdraw.dll
